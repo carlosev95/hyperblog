@@ -14,6 +14,7 @@ En dicho curso se hace seguimiento a diferentes temáticas como:
 * Revisión de Pull Request con Github.
 * Creado por el increíble Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 *En el curso se cubren varios aspectos que se ven en un entorno de desarrollo cotidiano, y cubre aspectos para la solución de problemas que se pueden presentar en un flujo de trabajo.*
 
